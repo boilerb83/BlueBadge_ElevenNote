@@ -33,3 +33,6 @@ C:\ElevenFiftyProjects\BLUE_BADGE\ELEVEN_NOTE_MODULE\ElevenNote\ElevenNote.Data\
 C:\ElevenFiftyProjects\BLUE_BADGE\ELEVEN_NOTE_MODULE\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\BLUE_BADGE\ELEVEN_NOTE_MODULE\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\ElevenFiftyProjects\BLUE_BADGE\ELEVEN_NOTE_MODULE\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\ElevenFiftyProjects\BLUE_BADGE\ELEVEN_NOTE_MODULE\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\ElevenFiftyProjects\BLUE_BADGE\ELEVEN_NOTE_MODULE\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\ElevenFiftyProjects\BLUE_BADGE\ELEVEN_NOTE_MODULE\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources
